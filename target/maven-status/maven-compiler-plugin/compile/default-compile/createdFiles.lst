@@ -1,0 +1,7 @@
+com\mycompany\simplerest\entities\User.class
+com\mycompany\simplerest\controllers\UserController.class
+com\mycompany\simplerest\JAXRSConfiguration.class
+com\mycompany\simplerest\entities\Entity.class
+com\mycompany\simplerest\Services\bd\StaticTemp.class
+repositories\UserRepository.class
+com\mycompany\simplerest\Services\bd\DatabaseService.class
